@@ -12,7 +12,7 @@ body {
   justify-content: center;
   perspective: 1000px;
   background-image: url('./img/Wallpaper.jpg');
-remov  /* background-repeat: no-repeat; */
+  /* background-repeat: no-repeat; */
 }
 .container {
   width: 50%;
